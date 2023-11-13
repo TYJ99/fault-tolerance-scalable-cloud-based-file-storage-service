@@ -2,15 +2,6 @@ See spec [here](./Fault_Tolerant_Scalable_SurfStore_Spec.pdf)
 
 # Surfstore
 
-This is the starter code for the SurfStore project
-
-Before you get started, make sure you understand the following 2 things about Go. (These will also be covered in class and in discussions)
-1. Interfaces: They are named collections of method signatures. Here are some good resources to understand interfaces in Go:
-    a. https://gobyexample.com/interfaces
-    b. https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
-
-2. gRPC: You should know how to write gRPC servers and clients in Go. The [gRPC official documentation](https://grpc.io/docs/languages/go/basics/) of the *grpc* is a good resource.
-
 ## Protocol buffers
 
 The starter code defines the following protocol buffer message type in `SurfStore.proto`:
